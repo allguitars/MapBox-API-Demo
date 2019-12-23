@@ -1,7 +1,7 @@
 # Earthquake Map
 ### Earthquakes that have happened during the past 30 days
 
-See the [Result](https://allguitars.github.io/mapbox-api-demo/)
+See the [Result Page](https://allguitars.github.io/mapbox-api-demo/).
 
 Made a page that shows the magnitude of the earthquakes by drawing circles with different diameters for earthquakes that occurred all over the world for the past 30 days, and the information is instant.
 
